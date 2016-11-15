@@ -1,5 +1,5 @@
 # Lame Sauce UI Theme
 
-This is a  very minimal and plain Atom UI theme.
+This is a very minimal (grey) and plain Atom UI theme with soft pastels.
 
-![A screenshot of your theme](https://cloud.githubusercontent.com/assets/378023/8842525/4215f26c-3136-11e5-9d94-d2c078a05d24.png)
+![A screenshot of your theme](https://dl.dropboxusercontent.com/s/85dtpfltchveob4/lame-sauce-ui.png)
